@@ -1,4 +1,4 @@
-Basic Phase 1
+Basic Phase 1 (Requirements)
 
 - Student Information
 - Financials
